@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1051741432748",
+    "project_id": "flutterfirst-project-2b805",
+    "storage_bucket": "flutterfirst-project-2b805.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1051741432748:android:e4ae8368c1c209b826a809",
+        "android_client_info": {
+          "package_name": "com.example.covid_tacker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1051741432748-kpf09nmd2nsfpq0cmuk168n0veh30gjv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnLSoXDFa5Z2t6Zy3hJvxu70RWWQA-zXg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1051741432748-kpf09nmd2nsfpq0cmuk168n0veh30gjv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
